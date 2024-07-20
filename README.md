@@ -5,3 +5,7 @@ Intall my dots and make your setup the same as mine!
 
 ## Install
 ``` git clone https://github.com/j0sHuA7/dots-installer && cd dots-installer && chmod +x install.sh && ./install.sh```
+## Issues
+This wont work on all distros.
+## Remember...
+This script installs all the pkgs nessary for this rice!
