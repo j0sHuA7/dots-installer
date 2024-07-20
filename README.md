@@ -15,3 +15,4 @@ This wont work on **all** distros.
 `i3`
 `unzip`
 `wget`
+`picom`
