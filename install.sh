@@ -1,4 +1,5 @@
 echo -e "\e[34mWelcome to my dots installer!\e[m"
+echo -e "\e[31mThis may take some time\e[m..."
 {
        	git clone https://gitea.com/yehoshua/config/ 
         mkdir ~/.config
