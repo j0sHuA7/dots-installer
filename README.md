@@ -14,3 +14,4 @@ This wont work on **all** distros.
 `kitty`
 `i3`
 `unzip`
+`wget`
